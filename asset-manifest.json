@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MOVIE-FINDER-REACT/static/css/main.768e26fc.chunk.css",
+    "main.js": "/MOVIE-FINDER-REACT/static/js/main.c0857e9a.chunk.js",
+    "main.js.map": "/MOVIE-FINDER-REACT/static/js/main.c0857e9a.chunk.js.map",
+    "runtime-main.js": "/MOVIE-FINDER-REACT/static/js/runtime-main.487758d9.js",
+    "runtime-main.js.map": "/MOVIE-FINDER-REACT/static/js/runtime-main.487758d9.js.map",
+    "static/js/2.ed2fd2c5.chunk.js": "/MOVIE-FINDER-REACT/static/js/2.ed2fd2c5.chunk.js",
+    "static/js/2.ed2fd2c5.chunk.js.map": "/MOVIE-FINDER-REACT/static/js/2.ed2fd2c5.chunk.js.map",
+    "index.html": "/MOVIE-FINDER-REACT/index.html",
+    "static/css/main.768e26fc.chunk.css.map": "/MOVIE-FINDER-REACT/static/css/main.768e26fc.chunk.css.map",
+    "static/js/2.ed2fd2c5.chunk.js.LICENSE.txt": "/MOVIE-FINDER-REACT/static/js/2.ed2fd2c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.487758d9.js",
+    "static/js/2.ed2fd2c5.chunk.js",
+    "static/css/main.768e26fc.chunk.css",
+    "static/js/main.c0857e9a.chunk.js"
+  ]
+}
