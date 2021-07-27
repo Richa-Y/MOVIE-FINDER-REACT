@@ -23,7 +23,7 @@ export function movies(state = initialMovie, action) {
 
   //   return state;
   // }
-
+  //added new comment
   switch (action.type) {
     case ADD_MOVIES:
       return {
@@ -67,12 +67,12 @@ export function Search(state = initialSearchState, action) {
       return {
         ...state,
         result: action.movie,
-        showSearchResult: true,   
+        showSearchResult: true,
       };
     case ADD_MOVIE_TO_LIST:
       return {
-        ...state, 
-      
+        ...state,
+
         showSearchResult: false,
       };
     default:
